@@ -1,2 +1,3 @@
-# lexer
-enum token_type{token_int,token_identifier,token_end_of_file};
+https://www.chromium.org/chromium-os/developer-library/reference/linux-constants/syscalls/  
+
+https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html
