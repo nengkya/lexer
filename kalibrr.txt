@@ -1,0 +1,55 @@
+Beberapa orang telah mempelajari permasalahan berikut ini:
+ada 2 angka, a dan b.
+berapa banyak angka dari a ke b, termasuk, bisa dibagi angka k.
+
+contoh:
+jika a=1, b=10, k=3 maka ada 3 angka yang termasuk: 3, 6, 9.
+tolong buatkan program untuk memecahkan masalah ini.
+
+input:
+baris 1, angka percobaan t.
+tiap percobaan ada 3 angka a,b,k, masing-masing angka a,b,k memiliki urutan a,b,k.
+
+
+outut:
+tiap percobaan, output 1 baris berbentuk "Case c: x", dimana c adalah angka percobaan (mulai dari 1)
+dan x adalah angka antara a dan b, termasuk, dapat dibagi k.
+
+batasan:
+1<=t<=100
+1<=a<=b<10.000
+1<=k<10.000
+
+====================================================================================================
+
+Beberapa orang telah mempelajari masalah berikut:
+diberikan dua angka, A dan B,
+berapa banyak angka dari A hingga B, termasuk, yang terlihat oleh angka lain K.
+
+Misalnya:
+jika A adalah  1,
+     B adalah 10,
+dan  K adalah  3,
+
+maka ada 3 angka yang memenuhi ini: 3, 6, dan 9.
+
+Bantu mereka dengan memprogram solusi untuk masalah ini!
+
+
+Masukan:
+
+Baris pertama adalah jumlah kasus uji T.
+Setiap kasus uji memiliki tiga angka A, B, K,
+masing-masing pada barisnya sendiri yang diberikan dalam urutan tersebut.
+
+
+Keluaran:
+
+Untuk setiap kasus uji, keluarkan satu baris dalam bentuk “Kasus C: X"
+di mana C adalah nomor kasus (dimulai dari 1), dan X adalah jumlah bilangan bulat antara A dan B, termasuk, yang habis dibagi K.
+
+Batasan:
+
+1 ≤ T ≤ 100
+1 ≤ A ≤ B < 10000
+1 ≤ K < 10000
