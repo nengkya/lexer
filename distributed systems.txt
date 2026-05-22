@@ -1,0 +1,19 @@
+Describe a project or system you have built that is most relevant to the role you applied for.
+
+Include: 
+- System scale
+- Your contribution
+- Brief overview of key challenges
+*
+Web scraping with Selenium
+What was the most challenging part of that project, and how did you solve it?
+*
+To visualize the data for the product or decision maker.
+Role-Relevant Screening
+Answer the following based on your experience relevant to the role you applied for.
+1. Have you worked with distributed systems or high-concurrency systems?
+Yes
+No
+If Yes, briefly explain the project/context (Optional)
+using Portable Operating System Interface for uniX thread (pthread) in C Programming Language
+2. Have you built or worked on real-time sync or offline-first systems (e.g., using local databases, synchronization algorithms)?
